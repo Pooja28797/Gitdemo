@@ -1,0 +1,10 @@
+<configuration>
+    <theme>dark</theme>
+    <encoding>utf-8</encoding>
+    <protocol>https</protocol>
+    <title>Automation Report</title>
+    <reportName>Cucumber Automation Report</reportName>
+    <documentTitle>Cucumber Test Execution Report</documentTitle>
+    <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+    <timelineEnabled>true</timelineEnabled>
+</configuration>
